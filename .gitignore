@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts and binaries
+build/
+**/build/
+*.o
+*.out
+outDebug
+outRelease
