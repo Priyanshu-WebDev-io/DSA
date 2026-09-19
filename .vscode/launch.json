@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/priyanshu/Desktop/DSA/arrays/02-2d-Arrays",
-      "program": "/Users/priyanshu/Desktop/DSA/arrays/02-2d-Arrays/build/Debug/outDebug"
+      "cwd": "/Users/priyanshu/Desktop/DSA/03-linkedlist",
+      "program": "/Users/priyanshu/Desktop/DSA/03-linkedlist/build/Debug/outDebug"
     }
   ]
 }
