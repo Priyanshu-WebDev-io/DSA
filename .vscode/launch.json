@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/priyanshu/Desktop/DSA/03-linkedlist",
-      "program": "/Users/priyanshu/Desktop/DSA/03-linkedlist/build/Debug/outDebug"
+      "cwd": "/Users/priyanshu/Desktop/DSA/04-stack",
+      "program": "/Users/priyanshu/Desktop/DSA/04-stack/build/Debug/outDebug"
     }
   ]
 }
