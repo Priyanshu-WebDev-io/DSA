@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/priyanshu/Desktop/DSA/06-hashing",
-      "program": "/Users/priyanshu/Desktop/DSA/06-hashing/build/Debug/outDebug"
+      "cwd": "/Users/priyanshu/Desktop/DSA/07-trees/01-binary-tree",
+      "program": "/Users/priyanshu/Desktop/DSA/07-trees/01-binary-tree/build/Debug/outDebug"
     }
   ]
 }
